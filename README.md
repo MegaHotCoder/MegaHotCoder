@@ -23,7 +23,7 @@
   
   ### Library
   <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <!--Selenium-->
   <img src="https://img.shields.io/badge/python-150458?style=flat-square&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=seaborn&logoColor=white"/>
