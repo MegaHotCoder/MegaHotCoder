@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a AI Engineer from South Korea.<br/>
   #### :fire: I aim to become a bio AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :mortar_board: Bachelor of Applied Artificial Intelligence, seoul science and tech university
   <br/>
   <br/>
   
@@ -23,9 +23,12 @@
   
   ### Library
   <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pandas&logoColor=white"/>
   <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-150458?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=sklearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=tensorflow&logoColor=white"/>
   <br/>
   
   ### Framework
